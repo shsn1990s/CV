@@ -12,7 +12,7 @@ Upon successfully acquiring Scholarship opportunity with the renowned Makers Aca
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Pair-Up-Pair Programming** | A web application designed to allow users to find pair programming partners near them to network with and collaborate on projects  | React, Jest, etc. |
+| **Pair-Up-Pair Programming** | A web application designed to allow users to find pair programming partners near them to network with and collaborate on projects with.  | MERN Stack - MongoDB, Express, React and Node|
 | **Acebook Social Media**     | A webapp to do y. | Ruby              |
 
 ## Work Experience
