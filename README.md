@@ -6,7 +6,7 @@ I have attained numerous performace awards from various Government departments. 
 
 I have always had a strong interest in coding and an interest in understanding the logic that drives applications and what makes them work. I have a very keen interest in understanding further into Artificial Intelligence, and the benefits that it can bring within society. The ability for an AI based application to identify a solution based on complex algorithms from vast datasets, is an interesting field to explore to build effective automation tools.
 
-Upon successfully acquiring Scholarship opportunity with the renowned Makers Academy, I am currently undertaking an intensive Software Development course, to build my knowledge and technical expertise to become a capable, competent and effective Software Developer.
+Upon successfully acquiring Scholarship opportunity with the renowned Makers Academy, I have completed an intensive Software Development course, to build my knowledge and technical expertise to become a capable, competent and effective Software Developer.
 
 ## Projects
 
