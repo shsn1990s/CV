@@ -12,8 +12,8 @@ Upon successfully acquiring Scholarship opportunity with the renowned Makers Aca
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Pair-Up-Pair Programming** | A webapp to do x. | React, Jest, etc. |
-| **Acebook Social Media **    | A webapp to do y. | Ruby              |
+| **Pair-Up-Pair Programming** | A web application designed to allow users to find pair programming partners near them to network with and collaborate on projects  | React, Jest, etc. |
+| **Acebook Social Media**     | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
